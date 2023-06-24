@@ -1,0 +1,20 @@
+Relatório de Votos por candidatos: 
+Nome: pedro,,, Quantidade de votos: 0
+Relatório de Votos por candidatos: 
+Nome: joao,,, Quantidade de votos: 0
+Relatório de Votos por candidatos: 
+Nome: jorge,, Quantidade de votos: 0
+Relatório de Votos por candidatos: 
+Nome: leandro,, Quantidade de votos: 1
+Relatório de Votos por candidatos: 
+Nome: pedro,, Quantidade de votos: 0
+Relatório de Votos por candidatos: 
+Nome: joao,, Quantidade de votos: 0
+Relatório de Votos por candidatos: 
+Nome: jorge,, Quantidade de votos: 0
+Relatório de Votos por candidatos: 
+Nome: leandro,, Quantidade de votos: 1
+Relatório de Votos por candidatos: 
+Nome: dudu,, Quantidade de votos: 0
+Relatório de Votos por candidatos: 
+Nome: fabio,, Quantidade de votos: 0

@@ -1,0 +1,6 @@
+pedro, 15
+joao, 13
+jorge, 32
+leandro, 100
+dudu, 14
+fabio, 16
